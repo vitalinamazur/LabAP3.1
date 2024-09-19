@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vital\\source\\repos\\LabAP3.1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{83A1D2D4-F238-4B05-9D52-2651D2BB2657}|LabAP3.1\\LabAP3.1.vcxproj|C:\\Users\\vital\\source\\repos\\LabAP3.1\\LabAP3.1\\LabAP3.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{83A1D2D4-F238-4B05-9D52-2651D2BB2657}|LabAP3.1\\LabAP3.1.vcxproj|solutionrelative:LabAP3.1\\LabAP3.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83A1D2D4-F238-4B05-9D52-2651D2BB2657}|LabAP3.1\\LabAP3.1.vcxproj|C:\\Users\\vital\\source\\repos\\LabAP3.1\\LabAP3.1\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{83A1D2D4-F238-4B05-9D52-2651D2BB2657}|LabAP3.1\\LabAP3.1.vcxproj|solutionrelative:LabAP3.1\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FileName.cpp",
+              "DocumentMoniker": "C:\\Users\\vital\\source\\repos\\LabAP3.1\\LabAP3.1\\FileName.cpp",
+              "RelativeDocumentMoniker": "LabAP3.1\\FileName.cpp",
+              "ToolTip": "C:\\Users\\vital\\source\\repos\\LabAP3.1\\LabAP3.1\\FileName.cpp",
+              "RelativeToolTip": "LabAP3.1\\FileName.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-18T07:55:19.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LabAP3.1.cpp",
+              "DocumentMoniker": "C:\\Users\\vital\\source\\repos\\LabAP3.1\\LabAP3.1\\LabAP3.1.cpp",
+              "RelativeDocumentMoniker": "LabAP3.1\\LabAP3.1.cpp",
+              "ToolTip": "C:\\Users\\vital\\source\\repos\\LabAP3.1\\LabAP3.1\\LabAP3.1.cpp",
+              "RelativeToolTip": "LabAP3.1\\LabAP3.1.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-18T07:37:00.382Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
